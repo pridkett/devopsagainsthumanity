@@ -1,0 +1,364 @@
+Angular.js
+Being acquired by Oracle
+Brogrammers
+Command-line magic
+Continuous integration
+Copypasta
+The Cult of Mac
+Degraded performance in some AWS availability zones
+Developers
+DevOps
+Git
+Golang
+Growth hacking
+Hacker News
+Larry Ellison
+Leaky abstractions
+LinkedIn
+Meritocracy
+MongoDB
+Node.js
+NPM
+Pareto Inefficient Nash Equilibriums
+Python
+Python datetime module
+Ruby
+Running out of IPv4 addresses
+Sysadmins
+Thought leadership
+Twitter
+Unicode errors
+Unknown source in your stack trace
+Waiting for console.aws.amazon.com
+Yet another package manager
+OpenSSL
+Heartbleed
+The NSA
+O'Reilly
+Edward Snowden
+Digital Ocean
+Magic Spray
+Web scale
+Functional programming
+Stack trace generator
+Patent
+NoSQL
+Windows XP
+Perl 6
+COTS Shareware
+2400 baud modem
+A squirrel with a taste for fiber
+Zombie processes
+CAP Theorem
+Snowflake server
+A Cisco router with a flaky chip
+NullPointerException: null
+Apache 1.2 running as root
+More buzzwords than you can shake a scrum at
+A GitHub Outage
+VisualBasic DLLs
+A WSDL file from 2003
+Business logic in PowerPoint slides
+/var/log symlinked to /dev/null
+Hypervisors running hypervisors running hypervisors
+An angry badger with an electromagnet on its back
+A shared root password
+Private keys in /var/www
+Parsing HTML with regex
+A 3.5" floppy disk
+A 5.25" floppy disk
+An 8" floppy disk
+An untested restore process
+A cron job that reboots the server every 5 minutes
+Apache Zookeeper on a 286
+Cloud-based business strategy
+Cloud 2.0
+An army of chaos monkeys, all carrying flamethrowers
+A home-rolled systemd replacement
+A mobile web 2.0 RIA
+Catastrophic Failure as a Service
+A global write lock
+75-tier architecture
+Hand-crafted artisan x86 assembly code
+A proof that P=NP written in BASIC
+An Exchange email loop
+A Volker-Craig terminal
+A self-aware PHP script
+A 500-megabyte UDP packet
+The last remaining Multics server on Earth
+A Null-modem cable
+A turducken made entirely of bash scripts
+Write-only code
+PagerDuty configured with a random number generator
+Netscape Navigator 3.2 support
+3 hour standups
+Mutation of immutable data
+Maven downloading the entire internet
+NPM downloading the entire internet
+The React Native dependency graph
+Continuous Disintegration
+IE6
+Scrum Master
+Magic Smoke
+Tech Debt Day
+Log Shipping
+UUCP
+Tcl
+NoOps
+:(){ :|:&};:
+Too Big Data
+Accidentally the entire data center
+freebasing caffeine
+Fat fingered
+Half open TCP connections
+Steve Balmer wielding a battleaxe
+A 50k line Bash script that's achieved self awareness
+Gigadevops
+Enterprise Grade Bash scripts
+Agile
+CouchDB
+GeoCouchDB
+High Availability
+Map-Reduce
+Erlang
+A non-ironic BSOD
+ntpdate
+Systemd
+12-Factor application
+Fail early, fail often
+Regex
+A water buffalo
+a routing loop
+a queue with no consumers
+Bitcoin mining
+A firewall full of holes
+An uncontrollable deluge of emails
+Ycombinator
+a jailbroken iPad
+Vagrant
+Docker
+$HOME/.gem
+ssh in a for loop
+a cold cup of coffee
+Destroying your tools with your tools
+UTF-9
+unlimited data plan
+UTF-7
+out-of-band access
+rm -rf /
+kill -9
+a series of tiny shellscripts
+Dogecoin
+Kernel panic
+Culture
+Percussive maintenance
+IE 7 Support
+Unix philosophy
+Trying to install MongoDB on AIX 3
+A server rack full of crushed dreams
+Node.js
+Silos
+Elastic Load Balancers
+RFC1178
+Full-stack developer
+A new printer
+A potato
+Office Space
+Git Blame
+"Developers! Developers! Developers! Developers!"
+Your account
+Single stepping through the kernel
+De-linting source code
+Significant whitespace
+A series of tubes
+secret sauce
+`# What is this used for?`
+`# FIXME: For now, just don't validate`
+Nagios
+Authentication and authorization
+Beating the server into submission with your bare hands.
+Read-only Fridays
+r/sysadmin
+Distributed Computing
+Sprint Planning
+Merge Conflicts
+`# we *LIE* about what happened and return a "success"`
+Unplugging a server and waiting to see who complains
+Too big to fail
+NoQA Movement
+Cowboy developer
+HipChat
+An IRC bot written entirely in sed
+COBOL
+Donald Knuth
+Rebooting All The Things
+Running Openstack in Production
+DNS
+SIGHUP
+An Animated GIF
+Heartbleed
+PC LOAD LETTER
+Your Browser Cache
+An online book seller
+Dust Bunnies
+Networking
+Blue Screen Of Death
+ISO-8601
+Daniel J. Bernstein
+Linus Torvalds
+That XKCD comic about sysadmins
+ISO-8859
+A pimply faced youth with nothing to lose
+Theo de Raadt yelling at newbs
+Lotus123
+`/dev/null` as a service
+Hackathons
+GNU/Linux
+ZeroVM
+SQLite
+Leap second bug
+TOR
+BASH
+ZSH
+Xonsh
+numactl
+Servers that follow daylight savings time
+Localtime set to UTC
+Command line options
+Temporary hotfixes
+jsLinux
+Qemu
+SIGKILL
+Your private browsing history
+The Year 2038 Problem
+rsync
+CFLAGS
+Profanity in the `git log`
+Gentoo
+The CEO
+Ping Pong
+Dennis Ritchie
+PAM Happy Hour
+Complex systems usually operate in failure mode.
+FAT32
+winsock
+fork() on Windows
+sudo
+kill -9 -1
+Cassandra
+HTML9 Responsive Boilerstrap JS
+A Certified SCRUM Master
+Scaled Agile Framework (SAFe)
+Bus error
+`git reset --hard origin/master`
+Forcing push to master
+Paxos Consensus Algorithm
+Raft Consensus Algorithm
+A German installation of Windows NT4
+curl | sh -c
+OpenLDAP
+AWS Spot Instances
+Those ksh scripts
+/cgi-bin/php5
+A $60 QNAP and some positive thinking
+A Raspberry Pi
+A cluster of Raspberry Pis running Kubernetes
+Windows ME
+@echo off
+Active Directory
+Eventual consistency
+Microsoft Azure
+That moment when you realize CTRL-Z cannot save you
+127.0.0.1
+Ethernet
+IPv6
+Rebooting Your Wireless Router
+Re-writing deployment scripts at 2 AM
+Piping /var/log/messages to Twitter
+Bare metal
+A pseudorandom number generator
+An outage window
+Sentinel System Driver
+phpMyAdmin
+Righteous Anger
+Crowdsourced Architecture
+Ascii Art Network Architecture Diagtram
+/etc/hosts
+CEOs with root access
+Directors with root access
+Automagic Metaprogramming
+Re-implementing TCP over UDP
+Microsoft Access over a WAN
+git submodules
+Haskell
+Functional Reactive
+Jenkins
+ChatOps
+Scala
+`WONTFIX`
+Friday afternoon deployment
+Friday afternoon happy hours
+YoloDB
+Piping random scripts from the internet into bash
+Blameless Post-Mortems
+Github selfies
+Production deployments that depend on GitHub
+RFC 2324
+Ponies
+Picking the best color to paint your bike shed
+Copy-on-write
+deduplication
+Program Management
+Product Managers
+The Ballmer Peak
+`0xDEADBEEF`
+A contractor that tells you it was a real learning experience
+A Java applet from 1996
+Restaruant Web Pages that Still Use Flash
+A virtual machine running a virtual machine until it brings on the Singularity
+Ops doing dev = technical debt
+`# And right here, we'd like a miracle.`
+Sparkly Devops Princess
+`git merge --force`
+A series of tubes
+The tech lead's pet project
+An entirely commented out file
+Circular imports
+A pull request with a winking smiley ;)
+Syntactic sugar coma
+The much neglected IPv5
+cron jobs that edit cron jobs
+`/dev/null`
+little Bobby Tables
+solar flares
+global warming
+Reticulating Splines
+Re-implementing TCP over TCP
+Mixed endianness
+OAuth
+traceroute
+rockstar
+packet loss
+losing the root password
+A Post-It Note with the Root Password
+`malloc`
+Server Logs
+Penetration Testing
+Deploying on a Friday afternoon
+The Unix Epoch
+0 day exploits
+Undocumented Tribal Knowledge
+`killall -9`
+RAID 0
+PIP
+PyPy
+Synergy
+dev
+Java
+Indian Ocean
+rm -rf /
+GCHQ
+NSA FOIA request
+wat
+kanban
+Halt and Catch Fire

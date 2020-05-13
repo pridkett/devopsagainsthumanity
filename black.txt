@@ -1,0 +1,269 @@
+140 characters is just enough to explain _____.
+_____ all the way down.
+_____ as a service.
+_____ dooms any project to epic failure.
+_____ is a feature, not a bug.
+_____ is for closers.
+_____ is weaponized privilege.
+_____ is webscale.
+_____ or it didn't happen.
+_____ with one weird trick.
+_____, as one does.
+_____, for some values of _____.
+Ask Me Anything about _____.
+Disrupting the established players in _____ via _____.
+Doge _____.
+Employees must _____ before returning to work.
+Enterprise _____ in the cloud.
+Enterprise-ready _____.
+Facebook has acquired _____ for $10b and _____.
+Free as in _____.
+Glitter-bombed with _____.
+Hi, I'm Troy McClure. You may remember me from such commit messages as _____ and _____.
+If _____ is the answer, you are asking the wrong question.
+If you're _____, you're gonna have a bad time.
+Nobody ever got fired for buying _____.
+Running Windows in production leads to _____.
+The Internet is for cat memes and _____,
+"Our release schedule doesn't have time for _____."
+The Internet of Things will be controlled by _____.
+The only thing necessary for evil to triumph is _____.
+WARN: _____ has been deprecated.
+Will merge pull requests for _____.
+Zero-day _____.
+Time to schedule the postmortem for _____ .
+It worked on my _____.
+_____, the only thing worse than recruiting spam.
+Put some _____ on it
+Wrap it with the _____ duct tape
+But Google is using _____ so we should too!
+_____ is the new _____.
+Etsy says we should _____ everything.
+xkcd.com just made a hilarious comic making fun of _____.
+This isn't going to be all unicorns and _____.
+Apple just patented _____.
+Root cause of the outage? _____.
+The status console is green, but I can't access _____.
+No route to host: _____.
+DevOps: Now with 100% more _____!
+Main benefits of automation: _____ and _____.
+...and then there was the time I found _____ on the root partition.
+We run production on _____ and _____.
+Management said it's OK to deploy _____ at 5pm on Friday 
+Did you know that we have _____ on pager rotation?
+"There was no good solution for _____, so we built our own."
+Amazon built a datacenter on the moon to lessen the risk of _____ causing problems.
+In order to improve security, we're upgrading to _____.
+The two pillars of our Continuous Deployment pipeline are _____ and _____.
+I got paged at 3am because of _____.
+The most stable part of our infrastructure? _____
+When I write a book about my experiences, it'll be called "_____, the good parts"
+Restoring from backups failed due to _____.
+My two most indispensable tools are _____ and _____.
+The production datacenter burned down because of _____.
+You should think of your servers like _____ and not like _____.
+It's like trying to herd _____.
+I ended up having to buy a replacement _____ on eBay.
+_____ Driven Development.
+RIAA is suing me for downloading _____.
+Security? We've got that! We use _____.
+I came up with an awesome regex that converts _____ to _____.
+My next blog post will be about how we used _____ to create _____.
+So, I was using Wireshark to check network traffic... Did you know we have _____ in production?
+My eyes started bleeding when I opened the editor and saw _____.
+I think maybe I'll leave _____ off my resum√©.
+We don't need _____ - we have _____ !
+Management just told me I need to get certified in _____.
+Marketing says we're leaders in the _____ space, but I think it's more accurate to say we specialize in _____.
+Our greatest achievement in the last year is _____.
+If we make this deadline, Management has promised us _____.
+Sweet! I just found a Puppet module for _____!
+We really need to open-source our _____.
+Who would have known that _____ could destroy an entire datacenter?
+Our production backups are stored using _____.
+We replaced our _____ with _____
+After _____ came up, the retrospective really went downhill.
+You know what our app needs? More _____, less _____.
+It figures - an article about our _____ was posted just as we're pivoting to _____.
+In the next planning session, we'll cover _____ and _____.
+Our competitive advantage is our _____.
+Coninuous Integration. Continous Deployment. Continuous _____.
+All that we had to do to halve our response times was implement _____
+Our entire app is geared towards providing _____.
+_____-ility
+My Linkedin Endorsements include _____.
+Users are _____.
+Robots are going to make _____ obsolete.
+Accidental _____.
+An error occurred: E_____
+According to the logs, _____ was initially caused by _____.
+We can just fix that with a little _____.
+You can have _____, _____, or _____.  Pick two.
+Functional programming - if you can't _____ it, _____ it.
+On a scale from 1 to 10, this is _____!
+We don't need configuration management, we have _____!
+_____, now with _____ support.
+RedHat has announced that RHEL 8 will ship with _____.
+"Hey, _____ is down. Can you fix it?"
+Did you try _____ yet?
+I laughed when they said I'd be on call 24/7 but wouldn't receive a stipend for _____.
+_____, _____ and just a few lines of Perl.
+_____ is the new Hadoop
+It's not web scale, it's _____
+Asynchronous REST API calls are the solution to _____
+"Guys, seriously, if we just use _____ it will solve all our problems with _____!"
+github.com/_____/_____
+_____ dependency hell.
+That talk outline said it would be about _____, but it ended up being more like _____.
+I will replace you with a very small _____.
+_____ isn't a job title
+For the next project we are going to use _____ to solve _____ .
+My editor of choice is _____.
+_____ it; ship it.
+_____-Stack Developer
+_____SQL
+The _____ on the server were deleted because _____ .
+The intern just ran _____ on the load balancer.
+Lambdas are just a lame implementation of _____.
+_____ should be deprecated in favor of _____ .
+I put _____ on the scripts to make it run faster.
+We run _____ in a cron job every 15 minutes.
+The client says it needs more _____ .
+We're a _____ as a Service company.
+The RFO for the global outage was ____ compunded by _____
+I was hired to maintain this 20 year old script that runs our critical _____ infrastructure.
+Amazon Elastic _____
+I know we use _____, but I wrote this critical program in _____.
+I'll just have Ops spin up a couple of _____ environments.
+I'm writing my next IRC bot with _____.
+I cannot wait until someone makes a _____ cluster out of these.
+C will finally be displaced by _____
+We don't need to worry about _____, We're using MongoDB.
+Why is _____ better than Hadoop?
+_____ all the things.
+ERROR: _____ NOT FOUND
+We don't need backups, we've got _____.
+Fixing your father's computer with _____.
+_____ isn't new, we used to do it in the '70s on mainframes.
+How is _____ better than _____ ?
+Learn ____ the hard way
+vagrant up _____
+You can fix  _____ with _____ .
+We took the plunge and rewrote _____ in Go
+Implementing _____ should take only 2 lines of code.
+Good enough for _____ work
+Yeah, but can it run _____?
+____ isn't cool. You know what's cool? _____
+I made a new editor, better than vim and emacs. It's called _____
+640k should be enough for _____.
+_____ worked in dev.
+You can't fix _____
+How hard could it be to port Linux to _____.
+I just finished working on my rocket powered _____.
+DB tuning wiith _____.
+Can anyone help me get _____ running on Cisco IOS?
+Please bring back _____. You broke my workflow.
+I'm just finishing up my manifesto on _____.
+I aliased _____ to git _____.
+10 PRINT "_____"; GOTO 10
+It is completely dark. You are likely to be eaten by a _____.
+Conway's Game of _____.
+Next year I'll start learning _____
+s/_____/_____/g
+_____ is the newest gTLD
+Works on my _____.
+One does not simply _____
+Sorry, you'll need to open a ticket before we can _____.
+ln -s _____ _____
+It compiles _____ to JavaScript.
+_____coin.
+_____ computing
+_____ just got pwned.
+It's like _____, but with _____ and list comprehensions.
+Software Defined _____.
+I can't believe you're still using _____.
+/dev/_____: Device is busy
+git --_____
+The _____ Public License.
+Couldn't we use _____?
+_____ would be so much better if we rewrote it in Clojure.
+So I just found _____ and _____ running in a screen session.
+Why is root running _____ under tmux?
+Instead of installing _____, what if we just used _____?
+I need a webinar like I need _____.
+On the plus side, we finally got rid of _____.
+_____ thought leader.
+bash: command not found: _____
+ETOOMUCH_____
+How did _____ ever work?
+I thought you said _____ was secure?
+git: You are in detached _____ state.
+Why don't we just fork _____ ?
+We turned off _____ and everything magically got better.
+I installed _____ by accident.
+Read-eval-_____-loop.
+We should try it with an actual _____.
+Is _____ something we need to optimize for?
+_____ Considered Harmful
+The _____ is used when the CPU is on fire
+modperl can be used to implement _____
+_____ runs Ruby as root
+A lot of disk space is needed for _____
+I can't wait until we no longer use _____
+I bet if we switch to _____ it will just work
+Our new startup is the _____ for _____.
+Google Analytics says 100% of my website visitors are _____
+Why does someone keep re-implementing system utilities in _____?
+Our only hope at recovering the data is _____
+_____: the gift that keeps on giving.
+Problem exists between Keyboard and _____
+The _____ certification program.
+I just finished writing an API for _____.
+90% of everything is _____.
+Given enough _____, all bugs are _____.
+The first 90% of development is _____. The second 90% is _____.
+When you logged in there, did you see a _____ that said _____
+I'm pretty sure _____ isn't thread safe
+We don't have to worry about CAP Theorem because of _____.
+I don't always test my code, but when I do I do it in _____.
+Those who don't understand _____ are condemned to reinvent it, poorly
+Of course culture is important to us, that's why we have _____.
+The NSA is really interested in our latest project: _____.
+Just change the _____, it'll be fine. 
+Yeah, you need to modprobe _____ to get it to recognize the _____
+Oh, we're devops! We have _____ in the office, but only the DBA can touch it.
+We're spending 20% of this sprint doing _____.
+_____ found a new OpenSSL vulernability people are calling _____.
+Management has changed all our job titles to _____.
+while true; do ____; done
+The consultant we hired is certain that _____ will drastically increase the performance of _____
+Could you just push this update for _____?  It should be a no-op.
+If we're all going to get fired, let's get fired for _____.
+We can't pay you, but we can offer _____ in compensation.
+Who thought that _____ was a good idea?
+It's not the recommended configuration to use _____ with _____ but it's in production right now.
+We wrote our own build tool based on _____
+We rewrote _____ in _____
+Artisanally crafted _____.
+The ___ that ops provides developers.
+Crossing _____ could lead to total protonic reversal.
+I asked the contractor for _____ and they delivered _____.
+Only the Enterprise Edition(tm) has _____.
+_____ for the win!
+_____ is the new _____.
+With _____, you write once, run nowhere.
+_____ discontinued support for the Linux version.
+A manager told me I couldn't remove our dependency on _____, but I got around it with _____.
+Just think of the Internet as _____.
+_____? We've got that.
+It took over 40 hours to document _____. 
+npm install _____.
+Circular imports import _____. 
+End-to-end _____.
+It's like _____ on _____.
+_____ will help you remember to sanitze your database inputs.
+We're running _____ in production?!
+_____ has root access.
+_____ is more reliable than _____
+_____ ate all my memory
+I assure you _____ is secure!
